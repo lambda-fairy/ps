@@ -1,0 +1,12 @@
+[package]
+name = "ps"
+version = "0.1.0"
+authors = ["Chris Wong <lambda.fairy@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "A safe wrapper around `std::mem::transmute`"
+readme = "README.md"
+documentation = "https://docs.rs/ps/"
+repository = "https://github.com/lfairy/ps"
+keywords = ["cast", "reinterpret", "convert", "transmute", "coerce"]
+categories = ["rust-patterns"]
+edition = "2018"
